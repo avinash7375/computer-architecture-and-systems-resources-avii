@@ -32,6 +32,7 @@
 - [Cost of GPUs in the cloud](https://cloud-gpus.com/) - Estimate the cost of running deep learning workloads on cloud GPUs
 - [Comparison of GPU Cloud Providers: Pricing and Features](https://www.gpucloudpricing.com) - Up-to-date information on the features and pricing of GPU cloud providers.
 - [ARM SPE](https://developer.arm.com/documentation/101136/latest/MAP/Arm-Statistical-Profiling-Extension--SPE-) - Hardware-assisted CPU profiling mechanism that offers detailed profiling capabilities.
+- [LLVM MCA](https://llvm.org/docs/CommandGuide/llvm-mca.html) - a performance analysis tool that uses information available in LLVM (e.g. scheduling models) to statically measure the performance of machine code in a specific CPU.
 
 ### 1.2. Profiling
 
